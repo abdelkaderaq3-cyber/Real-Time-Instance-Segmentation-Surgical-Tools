@@ -18,6 +18,8 @@ Segmentation Model
 ↓
 Instance Masks + Labels
 
+``` 
+
 ## 📂 Project Structure
 
 Real-Time-Instance-Segmentation-Surgical-Tools/
@@ -41,6 +43,8 @@ Real-Time-Instance-Segmentation-Surgical-Tools/
 ├── main.py
 ├── requirements.txt
 └── README.md
+
+``` 
 
 ## 🖼️ Project Images
 
