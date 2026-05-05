@@ -46,20 +46,6 @@ Real-Time-Instance-Segmentation-Surgical-Tools/
 
 ``` 
 
-## 🖼️ Project Images
-
-### 🔹 System Architecture
-
-![Architecture](images/architecture.png)
-
-### 🔹 Processing Pipeline
-
-![Pipeline](images/pipeline.png)
-
-### 🔹 Output Example
-
-![Output](images/output_example.png)
-
 ## ⚙️ How It Works
 
 1. Capture video frame
